@@ -1,3 +1,2 @@
-#https://heloiza00.github.io
-Inspire-se
+# https://heloiza00.github.io
 Site de Decoração 
